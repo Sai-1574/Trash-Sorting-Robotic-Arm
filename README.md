@@ -2,8 +2,10 @@
 
 A 5-DOF trash-sorting robotic arm that uses a YOLO object detector to classify items from a webcam/USB camera and an ESP32-driven arm (16-ch I2C 12-bit servo driver) to pick & place items into appropriate bins (recyclable / non-recyclable / hazardous). The web UI is built with Streamlit showing the live camera and detection overlay.
 
-<video controls src="demo videos/demo1.mp4" title="demo1"></video>
-<video controls src="demo videos/demo2.mp4" title="demo2"></video>
+https://github.com/user-attachments/assets/178b6c41-1f15-4fc7-aa5b-73d2985e2a01
+
+https://github.com/user-attachments/assets/309ed856-c838-49c0-8e08-598442d9adb2
+
 
 ## Hardware 
 - 5-DOF 3D-printed robotic arm
