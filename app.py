@@ -54,4 +54,3 @@ except Exception as ex:
 helper.play_webcam(model)
 
 st.sidebar.markdown("This is a demo of the waste detection model.", unsafe_allow_html=True)
-

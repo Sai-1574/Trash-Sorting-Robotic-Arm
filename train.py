@@ -6,4 +6,3 @@ path = '/content/datasets/waste-detection-9/data.yaml'
 results = model.train(data=path, epochs=50)
 results = model.val()
 success = model.export(format='onnx')
-
